@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/articlesFragment"
+        android:title="@string/articles"
+        android:icon="@drawable/ic_baseline_home">
+    </item>
+    <item
+        android:id="@+id/imagesFragment"
+        android:title="@string/gallery"
+        android:icon="@drawable/ic_baseline_search" >
+    </item>
+    <item
+        android:id="@+id/categoryFragment"
+        android:title="@string/category"
+        android:icon="@drawable/ic_baseline_person">
+    </item>
+</menu>

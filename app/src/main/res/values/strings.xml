@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WikiParser</string>
+    <string name="articles">Articles</string>
+    <string name="gallery">Gallery</string>
+    <string name="category">Category</string>
+    <string name="images_fragment">Images Fragment</string>
+    <string name="categoty_fragment">Categoty Fragment</string>
+    <string name="articles_fragment">Articles Fragment</string>
+</resources>
